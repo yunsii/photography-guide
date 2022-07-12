@@ -12,10 +12,14 @@
 > —— [wikipedia](https://zh.wikipedia.org/wiki/%E5%85%89%E5%9C%88)
 
 > 光圈的大小通常用f值表示，光圈f值=镜头的焦距除以光圈口径。<br />
->—— [wikipedia](https://zh.wikipedia.org/wiki/%E5%85%89%E5%9C%88)
+> —— [wikipedia](https://zh.wikipedia.org/wiki/%E5%85%89%E5%9C%88)
 
-#### 延伸阅读
+#### 延伸概念
 
+- [整档光圈](https://www.bilibili.com/video/BV1RY411j7Tw)
+- [最佳光圈](https://www.bilibili.com/video/BV1RY411j7Tw)
+- [恒定光圈](https://www.bilibili.com/video/BV1RY411j7Tw) - 标注焦段内光圈不变
+- [非恒定光圈](https://www.bilibili.com/video/BV1RY411j7Tw) - 光圈随焦段变化
 - [焦比](https://zh.wikipedia.org/wiki/%E7%84%A6%E6%AF%94)
 
 ### 快门 / Shutter
