@@ -14,18 +14,24 @@
 > 光圈的大小通常用f值表示，光圈f值=镜头的焦距除以光圈口径。<br />
 > —— [wikipedia](https://zh.wikipedia.org/wiki/%E5%85%89%E5%9C%88)
 
-#### 延伸概念
+#### 延伸资料
 
 - [整档光圈](https://www.bilibili.com/video/BV1RY411j7Tw)
 - [最佳光圈](https://www.bilibili.com/video/BV1RY411j7Tw)
 - [恒定光圈](https://www.bilibili.com/video/BV1RY411j7Tw) - 标注焦段内光圈不变
 - [非恒定光圈](https://www.bilibili.com/video/BV1RY411j7Tw) - 光圈随焦段变化
 - [焦比](https://zh.wikipedia.org/wiki/%E7%84%A6%E6%AF%94)
+- [视频] [爆肝两个月 | 用动画的方式揭开光圈和景深的秘密——掌控曝光（—）](https://www.bilibili.com/video/BV1t24y1k7Ye)
 
 ### 快门 / Shutter
 
 > 相机中控制曝光时间的重要部件，快门时间越短，曝光时间越少。<br />
 > —— [wikipedia](https://zh.wikipedia.org/wiki/%E5%BF%AB%E9%96%80)
+
+#### 延伸资料
+
+- [视频] [进阶科普｜用动画彻底搞懂“相机快门”!](https://www.bilibili.com/video/BV1Qu411p7Jj)
+
 
 ### 感光度 / ISO
 
@@ -34,6 +40,8 @@
 
 > 数码相机并不存在底片及底片上的化学反应，其感光度是一种类似于胶片感光度的一种指标，是一种等效感光度。<br />
 > —— [wikipedia](https://zh.wikipedia.org/wiki/%E6%84%9F%E5%85%89%E5%BA%A6)
+
+以上三点，**光圈**，**快门**，**感光度**合称为曝光三要素。
 
 ### 焦距 / Focal length
 
