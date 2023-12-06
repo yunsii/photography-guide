@@ -74,3 +74,88 @@
 
 > 曝光值的改变是通过改变f值和快门速度来实现的。如果相机采用光圈优先模式，则改变的是快门速度；如果相机采用快门优先模式，则改变的是f值。<br />
 > —— [wikipedia](https://zh.wikipedia.org/zh-hans/%E6%9B%9D%E5%85%89%E8%A1%A5%E5%81%BF)
+
+## 实战技巧
+
+### [黑背景](https://www.bilibili.com/video/BV1x4411F7bs?p=1)
+
+- 点测光（高光）
+- 曝光补偿（负）
+- 闪光灯
+
+### [雨丝](https://www.bilibili.com/video/BV1x4411F7bs/?p=2)
+
+- 打光（逆光/侧光）
+- 色温
+- 快门速度
+
+### [水珠](https://www.bilibili.com/video/BV1x4411F7bs/?p=3)
+
+- 微距
+- 小光圈
+- 手动对焦
+- 延迟拍摄
+
+### [光斑](https://www.bilibili.com/video/BV1x4411F7bs/?p=4)
+
+- 焦外
+- 延迟拍摄
+- 不同镜头光斑可能不同
+- 使用黑卡纸改变光斑形状
+
+### [逆光人像](https://www.bilibili.com/video/BV1x4411F7bs/?p=5)
+
+- 阳光（6500k）
+- 手动对焦
+- 点测光（高光）
+- 补光（前景）
+- 夕阳平射（黄金一小时）
+- 前景虚化
+- 前景光斑
+
+### [暗调人像](https://www.bilibili.com/video/BV1x4411F7bs/?p=6)
+
+- 深色背景
+- 深色服装
+- 点测光（高光）
+- 补光（轮廓光）
+- 曝光补偿（负）
+
+### [亮调人像](https://www.bilibili.com/video/BV1x4411F7bs/?p=7)
+
+- 浅色背景
+- 浅色服装
+- 评价测光（按光）
+- 顺光拍摄
+- 曝光补偿（正）
+- 浅色道具
+
+### [柔焦人像](https://www.bilibili.com/video/BV1x4411F7bs/?p=8)
+
+- 丝袜
+- 纱布
+- 保鲜膜 + 马克笔
+- 凡士林
+
+### [夜景人像](https://www.bilibili.com/video/BV1x4411F7bs/?p=9)
+
+- 白平衡（自动）
+- 安全快门（快门速度不能低于当前焦距）
+- 大光圈大光斑
+- 手动对焦
+
+### [夜景长曝光](https://www.bilibili.com/video/BV1x4411F7bs/?p=10)
+
+- 手动曝光组合
+- 小光圈（点光源会有星芒效果）
+- 低速快门
+- 快门线/延迟拍摄
+
+### [多重曝光](https://www.bilibili.com/video/BV1x4411F7bs/?p=11)
+
+- 开启多重曝光
+- [模式](https://www.bilibili.com/video/BV1x4411F7bs?t=470.9&p=11)
+  - 加法
+  - 平均
+  - 明亮
+  - 黑暗
