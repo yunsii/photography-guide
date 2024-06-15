@@ -88,8 +88,12 @@
 #### [雨丝](https://www.bilibili.com/video/BV1x4411F7bs/?p=2)
 
 - 打光（逆光/侧光）
-- 色温
+- 色温/白平衡
 - 快门速度
+
+##### 延伸资料
+
+- [【硬核科普】为什么你拍的视频颜色不好看？99%的人都会忽视这个原理！](https://www.bilibili.com/video/BV1Fv411H7P5)
 
 #### [水珠](https://www.bilibili.com/video/BV1x4411F7bs/?p=3)
 
